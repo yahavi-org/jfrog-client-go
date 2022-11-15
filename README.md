@@ -4,7 +4,6 @@
 
 # JFrog Go Client
 
-
 </div>
 
 | Branch |                                                                                                                                                                              Status                                                                                                                                                                              |
